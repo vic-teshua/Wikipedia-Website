@@ -1,4 +1,4 @@
-# UIB-content-text
+# Make a Wikipedia Website 
 
 1. Open your favorite Wikipedia Article
 2. Turn it into a HTML webpage with correct headings and paragraphs where its appropriate
